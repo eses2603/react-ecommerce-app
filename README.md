@@ -1,13 +1,28 @@
-<h1> E-Commerce_Website</h1>
+# React E-Commerce Application
 
-I've independently designed and coded a responsive E-Commerce_Website, and it's ready to explore!
+A responsive e-commerce application built with React and Redux, allowing users to browse products, manage a shopping cart, and perform product operations.
 
-🔸 Project Name: [E-Commerce Website]
+## 🚀 Tech Stack
+- React
+- Redux
+- Redux Thunk
+- Axios
+- Bootstrap
 
-🔸 Technologies Used: React, Redux, Thunk, Axios, Bootstrap
+## 🔐 Features
+- Product listing and management
+- Add / remove products from cart
+- Cart price calculation
+- Asynchronous data handling with Redux Thunk
+- Responsive design for mobile and desktop devices
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers. On this e-commerce site created using Redux Thunk Products can be added, calculated and deleted.
+## 🧠 Architecture & Focus
+- Global state management using Redux
+- Asynchronous API communication with Axios
+- Component-based scalable structure
+- Clean UI design using Bootstrap
+- Efficient cart state synchronization
 
-<h2>Screen_Shoot</h2>
+## 📷 Demo
 
 ![](screen_ecommerce.gif)

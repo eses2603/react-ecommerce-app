@@ -26,3 +26,9 @@ A responsive e-commerce application built with React and Redux, allowing users t
 ## 📷 Demo
 
 ![](screen_ecommerce.gif)
+
+## 💡 Future Improvements
+- Payment system integration
+- Product filtering and sorting
+- User authentication
+- Order history page
